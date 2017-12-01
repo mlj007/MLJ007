@@ -8,22 +8,22 @@
 # Site settings
 title: 分享技术,品味人生 # ex. I m Chuan
 name: 纯洁的微笑 # ex. DONGChuan
-email: ityouknow@126.com
+email: itallknow@126.com
 location: beijing,china # ex. Nice, France
 company: 10T免费资源
-company_url: http://www.ityouknow.com/share/2017/10/01/resource-sharing.html
-github_url: https://github.com/ityouknow # ex. https://github.com/DONGChuan
-cnblog_url: http://www.cnblogs.com/ityouknow
+company_url: http://www.itallknow.com/share/2017/10/01/resource-sharing.html
+github_url: https://github.com/itallknow # ex. https://github.com/DONGChuan
+cnblog_url: http://www.cnblogs.com/itallknow
 description: the world is colorful
 
 favicon: favicon.png # Image must be in assets/images
-repository: ityouknow/ityouknow.github.io # ex. DONGChuan/DONGChuan.github.io
+repository: itallknow/itallknow.github.io # ex. DONGChuan/DONGChuan.github.io
 
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
 # For production, use your github page url. ex. http://dongchuan.github.io
-url: http://ityouknow.com
-enforce_ssl: ityouknow.com
+url: http://itallknow.com
+enforce_ssl: itallknow.com
 
 ## Gem
 gems:
@@ -108,17 +108,17 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: ityouknow
+    username: itallknow
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: ityouknow
+    owner: itallknow
     repo: blog-comments
     oauth:
         client_id: 61bfc53d957e74e78f8f
         client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: ityouknow
+    owner: itallknow
     repo: blog-comments
     clientID: 61bfc53d957e74e78f8f
     clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
