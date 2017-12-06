@@ -116,6 +116,11 @@ gitment:
     oauth:
         client_id: 83a0c24869ff70393e81
         client_secret: 78121b865c1671b896c535a9c5c1551aa08c1d6e
-
+# https://github.com/gitalk/gitalk#install
+gitalk:
+    owner: agcto
+    repo: blog-comments
+    clientID: 83a0c24869ff70393e81
+    clientSecret: 78121b865c1671b896c535a9c5c1551aa08c1d6e
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
