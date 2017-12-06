@@ -22,8 +22,8 @@ repository: agcto/agcto.github.io # ex. DONGChuan/DONGChuan.github.io
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
 # For production, use your github page url. ex. http://dongchuan.github.io
-url: http://agcto.com
-enforce_ssl: agcto.com
+url: http://www.agcto.com
+enforce_ssl: www.agcto.com
 
 ## Gem
 gems:
