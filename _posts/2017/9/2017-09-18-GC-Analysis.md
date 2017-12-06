@@ -114,10 +114,10 @@ Full GC回收日志:
 通过两张图非常明显看出gc日志构成：
 
 Young GC日志:
-![](http://agcto.com/assets/images/2017/jvm/Young GC.png)
+![](http://www.agcto.com/assets/images/2017/jvm/Young GC.png)
 
 Full GC日志:
-![](http://agcto.com/assets/images/2017/jvm/Full GC.png)
+![](http://www.agcto.com/assets/images/2017/jvm/Full GC.png)
 
 
 ## GC分析工具

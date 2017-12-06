@@ -71,7 +71,7 @@ tags: [云收藏]
 
 **session**
 
-session使用持久化技术来保存登录状态，登录一次保持需要会话30天，主要是依赖redis来实现，参考：[springboot(三)：Spring boot中Redis的使用](http://agcto.com/springboot/2016/03/06/springboot(%E4%B8%89)-Spring-Boot%E4%B8%ADRedis%E7%9A%84%E4%BD%BF%E7%94%A8.html)
+session使用持久化技术来保存登录状态，登录一次保持需要会话30天，主要是依赖redis来实现，参考：[springboot(三)：Spring boot中Redis的使用](http://www.agcto.com/springboot/2016/03/06/springboot(%E4%B8%89)-Spring-Boot%E4%B8%ADRedis%E7%9A%84%E4%BD%BF%E7%94%A8.html)
 
 **其它**
 
