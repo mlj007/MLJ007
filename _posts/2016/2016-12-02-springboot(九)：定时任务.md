@@ -110,12 +110,12 @@ this is scheduler task runing  3
 - ```@Scheduled(initialDelay=1000, fixedRate=6000)``` ：第一次延迟1秒后执行，之后按fixedRate的规则每6秒执行一次
 
 
-**[示例代码-github](https://github.com/ityouknow/spring-boot-examples)**
+**[示例代码-github](https://github.com/agcto/spring-boot-examples)**
 
-**[示例代码-码云](https://gitee.com/ityouknow/spring-boot-examples)**
+**[示例代码-码云](https://gitee.com/agcto/spring-boot-examples)**
 
 -------------
 
 **作者：纯洁的微笑**  
-**出处：[http://www.ityouknow.com/](http://www.ityouknow.com/springboot/2016/12/02/springboot(%E4%B9%9D)-%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1.html)**    
+**出处：[http://www.agcto.com/](http://www.agcto.com/springboot/2016/12/02/springboot(%E4%B9%9D)-%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1.html)**    
 **版权所有，欢迎保留原文链接进行转载：)**

@@ -28,25 +28,25 @@ tags: [share]
 - 15、回复"**springcloud**"，获取springcloud相关资料。  
 
 {:.center}
-![](http://www.ityouknow.com/assets/images/2017/book/AB.jpg)  
+![](http://www.agcto.com/assets/images/2017/book/AB.jpg)  
 
 以下为超级大礼包：
 
 - 回复 “程序员”，获取计算机专业超全教科书礼包
 
 {:.center}
-![](http://www.ityouknow.com/assets/images/2017/book/programmer.jpeg)  
+![](http://www.agcto.com/assets/images/2017/book/programmer.jpeg)  
 
 
 - 回复“面试”，获取互联网行业私密面试大礼包
 
 {:.center}
-![](http://www.ityouknow.com/assets/images/2017/book/Interview.jpg)  
+![](http://www.agcto.com/assets/images/2017/book/Interview.jpg)  
 
 - 回复“架构师",获取十套1000G精选架构师资料
 
 {:.center}
-![](http://www.ityouknow.com/assets/images/2017/book/architect.png)  
+![](http://www.agcto.com/assets/images/2017/book/architect.png)  
 
 
 将不定期更新资源，欢迎持续关注。  

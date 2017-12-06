@@ -43,7 +43,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ityouknow/spring-cloud-starter/     # 配置git仓库的地址
+          uri: https://github.com/agcto/spring-cloud-starter/     # 配置git仓库的地址
           search-paths: config-repo                             # git仓库地址下的相对地址，可以配置多个，用,分割。
           username: username                                        # git仓库的账号
           password: password                                    # git仓库的密码
@@ -74,7 +74,7 @@ public class ConfigServerApplication {
 这样server端的改造就完成了。先启动eureka注册中心，在启动server端，在浏览器中访问：```http://localhost:8000/``` 就会看到server端已经注册了到注册中心了。
 
 {:.center}
-![](http://www.ityouknow.com/assets/images/2017/springcloud/eureka-config01.jpg)
+![](http://www.agcto.com/assets/images/2017/springcloud/eureka-config01.jpg)
 
 
 按照上篇的测试步骤对server端进行测试服务正常。
@@ -150,7 +150,7 @@ public class ConfigClientApplication {
 启动client端，在浏览器中访问：```http://localhost:8000/``` 就会看到server端和client端都已经注册了到注册中心了。
 
 {:.center}
-![](http://www.ityouknow.com/assets/images/2017/springcloud/eureka-config02.jpg)
+![](http://www.agcto.com/assets/images/2017/springcloud/eureka-config02.jpg)
 
 
 ## 高可用
@@ -158,7 +158,7 @@ public class ConfigClientApplication {
 为了模拟生产集群环境，我们改动server端的端口为8003，再启动一个server端来做服务的负载，提供高可用的server端支持。
 
 {:.center}
-![](http://www.ityouknow.com/assets/images/2017/springcloud/eureka-config03.jpg)
+![](http://www.agcto.com/assets/images/2017/springcloud/eureka-config03.jpg)
 
 如上图就可发现会有两个server端同时提供配置中心的服务，防止某一台down掉之后影响整个系统的使用。
 
@@ -175,7 +175,7 @@ public class ConfigClientApplication {
     "state": null, 
     "propertySources": [
         {
-            "name": "https://github.com/ityouknow/spring-cloud-starter/config-repo/neo-config-dev.properties", 
+            "name": "https://github.com/agcto/spring-cloud-starter/config-repo/neo-config-dev.properties", 
             "source": {
                 "neo.hello": "hello im dev"
             }
@@ -189,11 +189,11 @@ public class ConfigClientApplication {
 再次访问：```http://localhost:8002/hello```，返回：```hello im dev update```。说明客户端已经读取到了server端的内容，我们随机停掉一台server端的服务，再次访问```http://localhost:8002/hello```，返回：```hello im dev update```，说明达到了高可用的目的。
 
 
-**[示例代码-github](https://github.com/ityouknow/spring-cloud-examples)**
+**[示例代码-github](https://github.com/agcto/spring-cloud-examples)**
 
-**[示例代码-码云](https://gitee.com/ityouknow/spring-cloud-examples)**
+**[示例代码-码云](https://gitee.com/agcto/spring-cloud-examples)**
 
 -------------
 **作者：纯洁的微笑**  
-**出处：[http://www.ityouknow.com/](http://www.ityouknow.com/springcloud/2017/05/25/springcloud-config-eureka.html)**      
+**出处：[http://www.agcto.com/](http://www.agcto.com/springcloud/2017/05/25/springcloud-config-eureka.html)**      
 **版权归作者所有，转载请注明出处** 

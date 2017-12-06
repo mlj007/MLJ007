@@ -393,12 +393,12 @@ public class MuliDatabaseTest {
 
 到此，mongodb多数据源的使用已经完成。
 
-**[示例代码-github](https://github.com/ityouknow/spring-boot-examples)**
+**[示例代码-github](https://github.com/agcto/spring-boot-examples)**
 
-**[示例代码-码云](https://gitee.com/ityouknow/spring-boot-examples)**
+**[示例代码-码云](https://gitee.com/agcto/spring-boot-examples)**
 
 -------------
 
 **作者：纯洁的微笑**  
-**出处：[http://www.ityouknow.com/](http://www.ityouknow.com/springboot/2017/05/08/springboot-mongodb.html)**      
+**出处：[http://www.agcto.com/](http://www.agcto.com/springboot/2017/05/08/springboot-mongodb.html)**      
 **版权归作者所有，转载请注明出处** 

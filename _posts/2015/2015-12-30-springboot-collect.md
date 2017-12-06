@@ -5,13 +5,13 @@ category: springboot
 tags: [springboot]
 ---
 
-收集Spring Boot相关的学习资料，[Spring Cloud点这里](http://www.ityouknow.com/springcloud/2016/12/30/springcloud-collect.html)
+收集Spring Boot相关的学习资料，[Spring Cloud点这里](http://www.agcto.com/springcloud/2016/12/30/springcloud-collect.html)
 
 
 ## 推荐博客
 
 
-- [纯洁的微笑](http://www.ityouknow.com/spring-boot)
+- [纯洁的微笑](http://www.agcto.com/spring-boot)
 
 - [程序猿DD](http://blog.didispace.com/categories/Spring-Boot/) 
 
@@ -47,7 +47,7 @@ tags: [springboot]
 
 - [spring boot官方例子](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples)
 
-- [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)
+- [spring-boot-examples](https://github.com/agcto/spring-boot-examples)
 
 - [SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning)
 

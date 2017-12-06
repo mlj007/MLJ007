@@ -8,13 +8,13 @@ tags: [springcloud]
 收集Spring Cloud相关的学习资料
 
 
-> 学习Spring Cloud首先需要了解Spring Boot，不了解Spring Boot的同学戳这里[Spring Boot学习资料汇总](http://www.ityouknow.com/springboot/2015/12/30/springboot-collect.html)
+> 学习Spring Cloud首先需要了解Spring Boot，不了解Spring Boot的同学戳这里[Spring Boot学习资料汇总](http://www.agcto.com/springboot/2015/12/30/springboot-collect.html)
 
 
 ## 推荐博客
 
 
-- [纯洁的微笑](http://www.ityouknow.com/spring-cloud)
+- [纯洁的微笑](http://www.agcto.com/spring-cloud)
 
 - [程序猿DD](http://blog.didispace.com/categories/Spring-Cloud/) 
 
@@ -39,7 +39,7 @@ tags: [springcloud]
 ## 开源代码
 
 
-- [spring-cloud-examples](https://github.com/ityouknow/spring-cloud-examples)
+- [spring-cloud-examples](https://github.com/agcto/spring-cloud-examples)
 
 - [SpringCloud-Learning](https://github.com/dyc87112/SpringCloud-Learning)
 
