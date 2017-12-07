@@ -194,6 +194,6 @@ public class HelloTests {
 
 -------------
 
-**作者：纯洁的微笑**  
+**作者：大龄码农**  
 **出处：[www.agcto.com](http://www.agcto.com/springboot/2016/01/06/springboot(%E4%B8%80)-%E5%85%A5%E9%97%A8%E7%AF%87.html)**    
 **版权所有，欢迎保留原文链接进行转载：)**

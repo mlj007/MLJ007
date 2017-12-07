@@ -225,6 +225,6 @@ t(spring:session:expirations:1472976480000
 
 -------------
 
-**作者：纯洁的微笑**  
+**作者：大龄码农**  
 **出处：[www.agcto.com](http://www.agcto.com/springboot/2016/03/06/springboot(%E4%B8%89)-Spring-Boot%E4%B8%ADRedis%E7%9A%84%E4%BD%BF%E7%94%A8.html)**    
 **版权所有，欢迎保留原文链接进行转载：)**

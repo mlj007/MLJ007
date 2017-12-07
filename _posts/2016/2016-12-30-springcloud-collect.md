@@ -14,7 +14,7 @@ tags: [springcloud]
 ## 推荐博客
 
 
-- [纯洁的微笑](http://www.agcto.com/spring-cloud)
+- [大龄码农](http://www.agcto.com/spring-cloud)
 
 - [程序猿DD](http://blog.didispace.com/categories/Spring-Cloud/) 
 

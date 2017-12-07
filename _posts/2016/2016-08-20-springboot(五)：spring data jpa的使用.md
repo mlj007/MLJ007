@@ -342,6 +342,6 @@ private String  userName;
 
 -------------
 
-**作者：纯洁的微笑**  
+**作者：大龄码农**  
 **出处：[http://www.agcto.com/](http://www.agcto.com/springboot/2016/08/20/springboot(%E4%BA%94)-spring-data-jpa%E7%9A%84%E4%BD%BF%E7%94%A8.html)**    
 **版权所有，欢迎保留原文链接进行转载：)**

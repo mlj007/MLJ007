@@ -439,6 +439,6 @@ fanout Receiver C: hi, fanout msg
 
 -------------
 
-**作者：纯洁的微笑**  
+**作者：大龄码农**  
 **出处：[http://www.agcto.com/](http://www.agcto.com/springboot/2016/11/30/springboot(%E5%85%AB)-RabbitMQ%E8%AF%A6%E8%A7%A3.html)**    
 **版权所有，欢迎保留原文链接进行转载：)**

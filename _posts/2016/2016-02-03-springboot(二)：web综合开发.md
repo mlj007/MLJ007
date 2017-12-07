@@ -97,7 +97,7 @@ public class WebConfiguration {
 ### 配置在application.properties中
 
 ``` xml
-com.neo.title=纯洁的微笑
+com.neo.title=大龄码农
 com.neo.description=分享生活和技术
 ```
 
@@ -393,7 +393,7 @@ bootRun {
 
 -------------
 
-**作者：纯洁的微笑**  
+**作者：大龄码农**  
 **出处：[www.agcto.com](http://www.agcto.com/springboot/2016/02/03/springboot(%E4%BA%8C)-web%E7%BB%BC%E5%90%88%E5%BC%80%E5%8F%91.html)**    
 **版权所有，欢迎保留原文链接进行转载：)**
 

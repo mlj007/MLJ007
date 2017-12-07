@@ -40,14 +40,14 @@ tags: [life]
 以后在这里我将开始分享我的技术和生活。
 
 
-我的公众号是：纯洁的微笑（KeepPureSmile），欢迎大家关注。
+我的公众号是：大龄码农（KeepPureSmile），欢迎大家关注。
 
 {:.center}
 ![](http://www.agcto.com/assets/images/keeppuresmile.jpg)
 
 -------------
 
-**作者：纯洁的微笑**  
+**作者：大龄码农**  
 **出处：[http://www.agcto.com/](http://www.agcto.com/life/2017/04/26/open-wechat.html)**      
 **版权归作者所有，转载请注明出处** 
 

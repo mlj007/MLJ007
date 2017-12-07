@@ -11,7 +11,7 @@ tags: [bigdata]
 
 ## 博客
 
-- [纯洁的微笑](http://www.agcto.com)
+- [大龄码农](http://www.agcto.com)
 
 - [粉丝日志](http://blog.fens.me/series-hadoop-family/)
 

@@ -331,6 +331,6 @@ public interface UserMapper {
 
 -------------
 
-**作者：纯洁的微笑**  
+**作者：大龄码农**  
 **出处：[http://www.agcto.com/](http://www.agcto.com/springboot/2016/11/06/springboot(%E5%85%AD)-%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E7%9A%84%E4%BD%BF%E7%94%A8mybatis.html)**    
 **版权所有，欢迎保留原文链接进行转载：)**

@@ -234,7 +234,7 @@ class HelloController {
 **[示例代码-码云](https://gitee.com/agcto/spring-cloud-examples)**
 
 -------------
-**作者：纯洁的微笑**  
+**作者：大龄码农**  
 **出处：[http://www.agcto.com/](http://www.agcto.com/springcloud/2017/05/22/springcloud-config-git.html)**      
 **版权归作者所有，转载请注明出处** 
 

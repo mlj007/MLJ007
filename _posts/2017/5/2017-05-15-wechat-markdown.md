@@ -94,7 +94,7 @@ public static void main(String[] args) {
 
 
 
-我的公众号是：纯洁的微笑（KeepPureSmile），欢迎大家关注一起交流。
+我的公众号是：大龄码农（KeepPureSmile），欢迎大家关注一起交流。
 
 {:.center}
 ![](http://www.agcto.com/assets/images/keeppuresmile.jpg)
@@ -102,7 +102,7 @@ public static void main(String[] args) {
 
 -------------
 
-**作者：纯洁的微笑**  
+**作者：大龄码农**  
 **出处：[http://www.agcto.com/](http://www.agcto.com/other/2017/05/15/wechat-markdown.html)**      
 **版权归作者所有，转载请注明出处** 
 

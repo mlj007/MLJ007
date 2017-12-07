@@ -92,7 +92,7 @@ tags: [career]
 
 -------------
 
-**作者：纯洁的微笑**  
+**作者：大龄码农**  
 **出处：[http://www.agcto.com/](http://www.agcto.com/career/2017/03/26/programmer-confused.html)**      
 **版权归作者所有，转载请注明出处** 
 

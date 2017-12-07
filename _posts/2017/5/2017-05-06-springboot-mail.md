@@ -302,6 +302,6 @@ public void sendTemplateMail() {
 
 -------------
 
-**作者：纯洁的微笑**  
+**作者：大龄码农**  
 **出处：[http://www.agcto.com/](http://www.agcto.com/springboot/2017/05/06/springboot-mail.html)**      
 **版权归作者所有，转载请注明出处** 
